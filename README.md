@@ -1,7 +1,7 @@
 # resume
 my resume (cv)
 
-## installing required software
+## requirements
 - ubuntu: `sudo apt-get install texlive`
 - arch: `sudo pacman -S texlive-most`
 
