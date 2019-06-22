@@ -13,10 +13,10 @@ my resume (cv)
 - LaTeX basics
   - https://en.wikibooks.org/wiki/LaTeX/Basics#The_LaTeX_syntax
   - https://www.latex-tutorial.com/tutorials/
+  - http://www.electronics.oulu.fi/latex/examples/
 - Writing resumes
   - https://www.toofishes.net/blog/why-i-do-my-resume-latex/
   - https://latexresu.me/generator/templates
   - https://texblog.org/2012/04/25/writing-a-cv-in-latex/
   - https://www.rpi.edu/dept/arc/training/latex/resumes/
   - https://github.com/kjhealy/kjh-vita
-  - http://www.electronics.oulu.fi/latex/examples/
