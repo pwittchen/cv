@@ -19,3 +19,4 @@ my resume (cv)
   - https://texblog.org/2012/04/25/writing-a-cv-in-latex/
   - https://www.rpi.edu/dept/arc/training/latex/resumes/
   - https://github.com/kjhealy/kjh-vita
+  - http://www.electronics.oulu.fi/latex/examples/
