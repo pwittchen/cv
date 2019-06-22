@@ -1,6 +1,10 @@
 # resume
 my resume (cv)
 
-to create `*.pdf` document, type: `make pdf`
+## installing required software
+- ubuntu: `sudo apt-get install texlive`
+- arch: `sudo pacman -S texlive-most`
 
-to clean generated documents type: `make clean`
+## usage
+- to create `*.pdf` document, type: `make pdf`
+- to clean generated documents type: `make clean`
