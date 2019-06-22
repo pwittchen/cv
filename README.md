@@ -14,6 +14,7 @@ my resume (cv)
   - https://en.wikibooks.org/wiki/LaTeX/Basics#The_LaTeX_syntax
   - https://www.latex-tutorial.com/tutorials/
   - http://www.electronics.oulu.fi/latex/examples/
+  - https://www.fuw.edu.pl/~kostecki/kurs_latexa.pdf
 - Writing resumes
   - https://www.latextemplates.com/cat/curricula-vitae
   - https://www.toofishes.net/blog/why-i-do-my-resume-latex/
