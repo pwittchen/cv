@@ -1,2 +1,2 @@
-# cv
-my cv (resume)
+# resume
+my resume (cv)
