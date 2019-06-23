@@ -2,7 +2,7 @@
 my resume (cv) as a code
 
 ## requirements
-- ubuntu: `sudo apt-get install texlive`
+- ubuntu: `sudo apt-get install texlive texlive-lang-polish`
 - arch: `sudo pacman -S texlive-most`
 
 ## usage
