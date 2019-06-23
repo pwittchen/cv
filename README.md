@@ -6,8 +6,13 @@ my resume (cv) as a code
 - arch: `sudo pacman -S texlive-most`
 
 ## usage
+
+### with Makefile
 - to create `*.pdf` document, type: `make pdf`
 - to clean generated documents type: `make clean`
+
+### with Dockerfile
+TBD.
 
 ## references
 - LaTeX basics
