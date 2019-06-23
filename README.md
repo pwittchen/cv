@@ -1,5 +1,5 @@
 # resume
-my resume (cv)
+my resume (cv) as a code
 
 ## requirements
 - ubuntu: `sudo apt-get install texlive`
