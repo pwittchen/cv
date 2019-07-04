@@ -11,4 +11,4 @@ sudo pacman -S texlive-most
 ## usage
 
 - to create `*.pdf` document, type: `make pdf`
-- to clean generated documents type: `make clean`
+- to clean generated documents and files, type: `make clean`
