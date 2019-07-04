@@ -1,4 +1,4 @@
 pdf:
 	pdflatex resume.tex
 clean:
-	rm *.log *.aux
+	rm *.log *.aux *.pdf
