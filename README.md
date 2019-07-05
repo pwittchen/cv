@@ -1,6 +1,6 @@
-resume
-======
-my cv (resume) as a code
+cv
+==
+my cv/resume as a code
 
 ## requirements
 
