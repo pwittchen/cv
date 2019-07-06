@@ -1,4 +1,4 @@
 pdf:
-	pdflatex resume.tex
+	xelatex resume.tex
 clean:
 	rm *.log *.aux *.pdf
