@@ -11,6 +11,8 @@ sudo pacman -S texlive-most
 ## usage
 
 ```
+git clone git@github.com:pwittchen/cv.git
+cd cv
 make pdf
 make clean
 ```
