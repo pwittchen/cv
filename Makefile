@@ -1,5 +1,5 @@
-all: requirements pdf
-requirements:
+all: install pdf
+install:
 	sudo pacman -S texlive-most
 pdf:
 	xelatex cv.tex
