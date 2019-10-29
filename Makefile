@@ -8,5 +8,5 @@ clean:
 help:
 	@echo "help       shows help"
 	@echo "install    installs dependencies"
-	@echo "pdf        creates pdf document with cv"
+	@echo "pdf        creates pdf document with the cv"
 	@echo "clean      removes temporary files and pdf"
