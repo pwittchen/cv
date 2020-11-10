@@ -7,3 +7,9 @@ usage/documentation:
 ```
 make help
 ```
+
+generating pdf document:
+
+```
+make pdf
+```
