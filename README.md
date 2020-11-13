@@ -1,15 +1,7 @@
 cv
 ==
-my cv/resume as a code
+my cv/resume as a code in LaTeX
 
-usage/documentation:
-
-```
-make help
-```
-
-generating pdf document:
-
-```
-make pdf
-```
+usage:
+- `make help`
+- `make pdf`
