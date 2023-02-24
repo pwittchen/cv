@@ -8,10 +8,15 @@ jobs:
     name: generate
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
-        uses: actions/checkout@v2
-      - name: compile latex
+      - name: checkout repository
+        uses: actions/checkout@latest
+      - name: compile latex to pdf
         uses: dante-ev/latex-action@latest
         with:
           compiler: xelatex
           root_file: cv.tex
+      - name: archive generated pdf document
+        uses: actions/upload-artifact@v3
+        with:
+          name: piotr_wittchen_cv.pdf
+          path: cv.pdf
