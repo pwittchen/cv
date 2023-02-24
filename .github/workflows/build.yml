@@ -3,9 +3,6 @@ on:
   push:
     branches:
       - master
-  workflow_dispatch:
-    inputs:
-      - input-file: cv.tex
 jobs:
   build:
     name: generate
@@ -13,3 +10,5 @@ jobs:
     steps:
       - name: generate
         uses: marcomicera/xelatex-action@v0.6
+        with:
+          input-file: cv.tex
