@@ -6,7 +6,7 @@ pdf:
 	xelatex cv.tex
 	mv cv.pdf piotr_wittchen_cv.pdf
 clean:
-	rm *.log *.aux *.pdf *.dvi || true
+	rm *.log *.aux *.pdf *.dvi *.out || true
 help:
 	@echo "help             shows help"
 	@echo "install_linux    installs dependencies on Arch Linux with pacman"
