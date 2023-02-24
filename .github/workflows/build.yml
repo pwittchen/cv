@@ -13,4 +13,5 @@ jobs:
       - name: compile latex
         uses: dante-ev/latex-action@latest
         with:
+          compiler: xelatex
           root_file: cv.tex
