@@ -3,12 +3,12 @@ on:
   push:
     branches:
       - master
-  inputs:
-    input-file: cv.tex
 jobs:
   build:
     name: generate
     runs-on: alpine-latest
+    inputs:
+      - input-file: cv.tex
     steps:
       - name: generate
         uses: marcomicera/xelatex-action@v0.6
