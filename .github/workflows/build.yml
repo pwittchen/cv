@@ -5,7 +5,7 @@ on:
       - master
 jobs:
   build:
-    name: generate
+    name: generate document
     runs-on: ubuntu-latest
     steps:
       - name: checkout repository
