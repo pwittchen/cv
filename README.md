@@ -6,5 +6,5 @@ usage:
 - `make help`
 - `make pdf`
 
-genrated documents:
-- navigate to [github actions](https://github.com/pwittchen/cv/actions), view latest run, download generated artifacts
+generated documents:
+- navigate to [github actions](https://github.com/pwittchen/cv/actions), view latest run, download generated artifact with cv/resume
