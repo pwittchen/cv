@@ -3,8 +3,7 @@ install_linux:
 install_macos:
 	brew install texlive
 pdf:
-	xelatex cv.tex
-	mv cv.pdf piotr_wittchen_cv.pdf
+	xelatex piotr_wittchen_cv.tex
 clean:
 	rm *.log *.aux *.pdf *.dvi *.out || true
 help:

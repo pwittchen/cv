@@ -14,9 +14,9 @@ jobs:
         uses: dante-ev/latex-action@latest
         with:
           compiler: xelatex
-          root_file: cv.tex
+          root_file: piotr_wittchen_cv.tex
       - name: archive generated pdf document
         uses: actions/upload-artifact@v3
         with:
-          name: piotr_wittchen_cv.pdf
-          path: cv.pdf
+          name: piotr_wittchen_cv
+          path: piotr_wittchen_cv.pdf
