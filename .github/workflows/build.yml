@@ -6,6 +6,7 @@ on:
 jobs:
   build:
     name: generate
+    runs-on: ubuntu-latest
     steps:
       - name: generate
         uses: marcomicera/xelatex-action@v0.6
