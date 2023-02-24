@@ -8,7 +8,9 @@ jobs:
     name: generate
     runs-on: ubuntu-latest
     steps:
-      - name: generate
-        uses: marcomicera/xelatex-action@v0.6
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: compile latex
+        uses: dante-ev/latex-action@latest
         with:
-          input-file: cv.tex
+          root_file: cv.tex
