@@ -16,7 +16,7 @@ jobs:
           compiler: xelatex
           root_file: piotr_wittchen_cv.tex
       - name: archive generated pdf document
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: piotr_wittchen_cv
           path: piotr_wittchen_cv.pdf
