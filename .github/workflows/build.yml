@@ -11,7 +11,7 @@ jobs:
       - name: checkout repository
         uses: actions/checkout@v4
       - name: compile latex to pdf
-        uses: dante-ev/latex-action@latest
+        uses: dante-ev/latex-action@2024-A
         with:
           compiler: xelatex
           root_file: piotr_wittchen_cv.tex
