@@ -4,6 +4,7 @@ install_macos:
 	brew install texlive
 pdf:
 	xelatex piotr_wittchen_cv.tex
+	xelatex piotr_wittchen_cv_extended.tex
 clean:
 	rm *.log *.aux *.pdf *.dvi *.out || true
 help:
